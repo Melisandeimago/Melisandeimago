@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-✉️ [Contact me via email](kotrynadarg@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
