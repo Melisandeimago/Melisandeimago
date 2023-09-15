@@ -4,7 +4,7 @@
 
 ### About me:
 
-- 👯‍♀️ People-focused HR pro with 4 years of experience eager to crunch the numbers through a transition into data analytics.
+- 👯‍♀️ HR professional with 4 years of experience eager to crunch the numbers through a transition into data analytics.
 - ✨ Passionate about harnessing the power of data to drive smarter organisational decisions.
 - 🧠 Strong strategic mindset combined with analytical abilities to extract actionable insights.
 - 💬 Want to utilize strong communication and relationship skills while unveiling the stories behind human data.
