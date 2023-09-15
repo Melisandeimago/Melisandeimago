@@ -1,6 +1,6 @@
 ## Hi, I am Gabrielė 👋
 
-### Check out my data analytics projects in the repositories below
+#### 🔍 Check out my data analytics projects in the repositories below 👇🏻
 
 ### About me:
 
