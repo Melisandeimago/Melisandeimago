@@ -10,6 +10,11 @@
 - 🕵🏻‍♀️ Seeking data analyst roles, especially in the HR/people analytics space.
 - 💬 Want to utilize strong communication and relationship skills while unveiling the stories behind human data.
 
-##### 💻 Find me on LinkedIn: www.linkedin.com/in/gabrieleda 
-##### 📬 Contact me: **kotrynadarg@gmail.com**
+### Tools I use: 
+- SQL, Google Looker, IBM SPSS Statistics 26, Jupyter Notebook, Google Sheets, MS Excel
+### Learning:
+- Python, Microsoft Power BI
+
+#### 💻 Find me on LinkedIn: www.linkedin.com/in/gabrieleda 
+#### 📬 Contact me: **kotrynadarg@gmail.com**
 
