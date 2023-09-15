@@ -1,8 +1,5 @@
 ## Hi, I am Gabrielė 👋
 
-- 💻 Find me on LinkedIn: www.linkedin.com/in/gabrieleda
-- 📬 Contact me: **kotrynadarg@gmail.com**
-
 ### 🔍 Check out my top data analytics projects in the pinned repositories below 👇🏻
 
 ### About me:
@@ -15,7 +12,8 @@
 
 ### Tools I use: 
 - SQL, Google Looker, IBM SPSS Statistics 26, Jupyter Notebook, Google Sheets, MS Excel
-### Learning:
-- Python, Microsoft Power BI
-
+- Currently learning: Python, Microsoft Power BI
+### Let's get in touch!   
+- 💻 Find me on LinkedIn: www.linkedin.com/in/gabrieleda
+- 📬 Contact me: **kotrynadarg@gmail.com**
 
