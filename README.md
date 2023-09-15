@@ -1,6 +1,6 @@
 ## Hi, I am Gabrielė 👋
 
-#### 🔍 Check out my data analytics projects in the repositories below 👇🏻
+#### 🔍 Check out my top data analytics projects in the pinned repositories below 👇🏻
 
 ### About me:
 
@@ -9,5 +9,7 @@
 - 🧠 Strong strategic mindset combined with analytical abilities to extract actionable insights.
 - 🕵🏻‍♀️ Seeking data analyst roles, especially in the HR/people analytics space.
 - 💬 Want to utilize strong communication and relationship skills while unveiling the stories behind human data.
-  
+
+##### 💻 Find me on LinkedIn: www.linkedin.com/in/gabrieleda 
+##### 📬 Contact me: **kotrynadarg@gmail.com**
 
