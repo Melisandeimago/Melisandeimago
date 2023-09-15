@@ -1,5 +1,7 @@
 ## Hi, I am Gabrielė 👋
 
+### Check out my data analytics projects in the repositories below
+
 ### About me:
 
 - 👯‍♀️ People-focused HR pro eager to crunch the numbers through a transition into data analytics.
