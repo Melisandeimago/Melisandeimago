@@ -1,5 +1,8 @@
 ## Hi, I am Gabrielė 👋
 
+- 💻 Find me on LinkedIn: www.linkedin.com/in/gabrieleda
+- 📬 Contact me: **kotrynadarg@gmail.com**
+
 ### 🔍 Check out my top data analytics projects in the pinned repositories below 👇🏻
 
 ### About me:
@@ -15,6 +18,4 @@
 ### Learning:
 - Python, Microsoft Power BI
 
-#### 💻 Find me on LinkedIn: www.linkedin.com/in/gabrieleda 
-#### 📬 Contact me: **kotrynadarg@gmail.com**
 
