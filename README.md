@@ -15,4 +15,5 @@
 ### Let's get in touch!   
 - 💻 Find me on LinkedIn: www.linkedin.com/in/gabrieleda
 - 📬 Contact me: **kotrynadarg@gmail.com**
+- 🎓 Check all of my [Data Analytics projects](https://github.com/Melisandeimago?tab=repositories) from Turing College
 
