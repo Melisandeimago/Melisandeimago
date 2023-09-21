@@ -4,7 +4,7 @@
 ### 🔍 Check out my top data analytics projects in the pinned repositories below 👇🏻 
 
 ### About me:  
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDUwa3Q3ODVlMHp6bnpkbTd5MXBpN3l2dWx5d243YjVwOTJkOGIxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26wfQrP51M7TJGBiHL/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/Melisandeimago/Melisandeimago/blob/main/Gif.gif" />
 
 - 👯‍♀️ HR professional with 4 years of experience eager to crunch the numbers through a transition into data analytics.
 - ✨ Passionate about harnessing the power of data to drive smarter organizational decisions.
