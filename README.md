@@ -2,7 +2,7 @@
 
 ### 🔍 Check out my top data analytics projects in the pinned repositories below 👇🏻 
 
-### About me:
+### About me:  
 
 - 👯‍♀️ HR professional with 4 years of experience eager to crunch the numbers through a transition into data analytics.
 - ✨ Passionate about harnessing the power of data to drive smarter organizational decisions.
@@ -10,9 +10,9 @@
 - 💬 Team player: strong communication and relationship skills, deeply care about people around me
 - 🕵🏻‍♀️ Seeking data analyst roles, especially in the HR/people analytics space.
 
-  ![giphy](https://github.com/Melisandeimago/Melisandeimago/assets/35727932/6a7f36f7-bbcf-4949-a171-7ad9a2688878)
-
 ### Tools I use: 
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDUwa3Q3ODVlMHp6bnpkbTd5MXBpN3l2dWx5d243YjVwOTJkOGIxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26wfQrP51M7TJGBiHL/giphy.gif" width="50%" height="50%" />
+
 - SQL, Google Looker, IBM SPSS Statistics 26, Jupyter Notebook, Google Sheets, MS Excel
 - Currently learning: Python, Microsoft Power BI
 ### Let's get in touch!   
